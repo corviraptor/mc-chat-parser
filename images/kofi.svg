@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   role="img"
+   viewBox="0 0 24 15.292"
+   version="1.1"
+   id="svg1"
+   sodipodi:docname="kofi.svg"
+   inkscape:version="1.3.2 (091e20ef0f, 2023-11-25)"
+   width="40"
+   fill="currentColor"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <defs
+     id="defs1" />
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="48.416667"
+     inkscape:cx="11.989673"
+     inkscape:cy="12"
+     inkscape:window-width="2560"
+     inkscape:window-height="1371"
+     inkscape:window-x="0"
+     inkscape:window-y="32"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg1" />
+  <title
+     id="title1">Ko-fi</title>
+  <path
+     d="M 23.881,4.593 C 23.108,0.508 19.022,0 19.022,0 H 0.723 C 0.119,0 0.044,0.798 0.044,0.798 c 0,0 -0.082,7.324 -0.022,11.822 0.164,2.424 2.586,2.672 2.586,2.672 0,0 8.267,-0.023 11.966,-0.049 2.438,-0.426 2.683,-2.566 2.658,-3.734 4.352,0.24 7.422,-2.831 6.649,-6.916 z M 12.819,8.104 c -1.246,1.453 -4.011,3.976 -4.011,3.976 0,0 -0.121,0.119 -0.31,0.023 C 8.422,12.046 8.39,12.013 8.39,12.013 7.947,11.572 5.022,8.964 4.356,8.059 3.647,7.094 3.315,5.359 4.265,4.349 5.216,3.339 7.27,3.263 8.628,4.756 c 0,0 1.565,-1.782 3.468,-0.963 1.904,0.82 1.832,3.011 0.723,4.311 z m 6.173,0.478 C 18.064,8.698 17.31,8.61 17.31,8.61 V 2.929 h 1.77 c 0,0 1.971,0.551 1.971,2.638 0,1.913 -0.985,2.667 -2.059,3.015 z"
+     id="path1"
+     style="fill-opacity:1" />
+  <metadata
+     id="metadata1">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:title>Ko-fi</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+</svg>

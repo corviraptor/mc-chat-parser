@@ -1,0 +1,17 @@
+html {
+    --text-ca-left: #ff0040cc;
+    --text-ca-right: #00ff9da9; 
+
+    /* PROPERTIES */
+    --main-max-width: 70em;
+
+    --text-chromatic-abberation-amount: 2;
+
+    --header-font: 'Iosevka Corax', serif !important;
+    --icon-font: 'Symbols Nerd Font' !important;
+    
+    font-weight: 500;
+    font-size: large;
+
+    color: var(--text-color);
+}

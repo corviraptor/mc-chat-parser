@@ -1,0 +1,41 @@
+.physical-button {
+    color: var(--main);
+    fill: var(--main);
+    background-color: var(--accent);
+
+    border: 5px solid var(--main-light);
+    border-bottom-color: var(--main-dark);
+    border-right-color: var(--main-dark);
+}
+
+.physical-button .icon {
+    color: var(--main);
+    padding: 0 0;
+}
+
+
+
+.physical-button:hover {
+    color: var(--main-light);
+
+    border-color: var(--main-lighter);
+    border-bottom-color: var(--main);
+    border-right-color: var(--main);
+    text-decoration: none;
+
+    background-color: var(--highlight);
+}
+
+
+
+.physical-button:disabled {
+    color: var(--main-dark);
+    border-color: var(--main-dark);
+    border-style: inset;
+    background-color: var(--disabled);
+}
+
+.physical-button:disabled .icon {
+    color: var(--main-dark);
+    border-style: none;
+}

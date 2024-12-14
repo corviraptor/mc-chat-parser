@@ -1,0 +1,42 @@
+.screen-button {
+    color: var(--text-color);
+    fill: var(--text-color);
+    background-color: var(--body);
+
+    border: 5px solid var(--screen-border);
+}
+
+.screen-button .icon {
+    color: var(--text-highlight);
+    padding: 0 0;
+    border-style: none;
+}
+
+
+
+.screen-button:hover {
+    color: var(--text-color);
+    fill: var(--text-color);
+
+    border-color: var(--text-color);
+    text-decoration: none;
+
+    background-color: var(--text-highlight);
+}
+
+.screen-button:hover .icon {
+    color: var(--text-color);
+}
+
+
+
+.screen-button:disabled {
+    color: var(--disabled);
+    border-color: var(--disabled);
+    border-style: solid;
+}
+
+.screen-button:disabled .icon {
+    color: var(--disabled);
+    border-style: none;
+}
